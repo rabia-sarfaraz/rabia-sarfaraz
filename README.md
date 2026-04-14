@@ -36,3 +36,17 @@
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+##  GitHub Stats:
+
+<div align="center">
+
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabia-sarfaraz&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rabia-sarfaraz&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabia-sarfaraz&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rabia-sarfaraz&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rabia-sarfaraz&theme=radical&utcOffset=5">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=rabia-sarfaraz&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=rabia-sarfaraz&theme=radical">
+
+</div>
