@@ -37,7 +37,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 
 <div align="center">
 
@@ -53,6 +53,6 @@
 
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=rabia-sarfaraz&theme=radical&show_icons=true" />
 
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=rabia-sarfaraz&theme=radical" />
+<img height="166em" src="https://streak-stats.demolab.com?user=rabia-sarfaraz&theme=radical" />
 
 </div>
