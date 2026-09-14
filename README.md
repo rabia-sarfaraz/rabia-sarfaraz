@@ -16,7 +16,7 @@
 ##  Contact Me  
 
 - 📧 Email: sarfarazrabi021@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rabia-sarfaraz-a69b9037a/  
+- 💼 LinkedIn: https://www.linkedin.com/in/rabia-sarfaraz
 
 ##  Personal  
 
