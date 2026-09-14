@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there , I'm <a href="https://www.linkedin.com/in/rabia-sarfaraz-a69b9037a/">Rabia Sarfaraz</a> 
+  Hi there , I'm <a href="https://www.linkedin.com/in/rabia-sarfaraz">Rabia Sarfaraz</a> 
 </h2>
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" 
